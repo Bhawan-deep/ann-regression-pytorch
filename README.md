@@ -8,6 +8,8 @@ This project implements an Artificial Neural Network (ANN) for regression using 
 * AP (Ambient Pressure)
 * RH (Relative Humidity)
 * PE (Energy Output - Target)
+* ##  Note
+Dataset path needs to be updated before running the notebook.
 ---
 ## Tech Stack
 * Python
